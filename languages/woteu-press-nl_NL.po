@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-06-30 21:33+0200\n"
+"PO-Revision-Date: 2016-06-30 21:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/wot-press-shortcode.php:20
+msgid "<h4>Player Name"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:93
+msgid "Client Language"
+msgstr "Taal client"
+
+#: inc/wot-press-shortcode.php:94
+msgid "Last Battle Time"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:95
+msgid "Account Id"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:96
+msgid "Created At"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:97
+msgid "Updataed At"
+msgstr ""
+
+#: inc/wot-press-widget.php:42
+msgid "Title"
+msgstr "Titel"
+
+#: inc/wot-press-widget.php:46
+msgid "Nickname"
+msgstr "Speelnaam"
+
+#: inc/wot-press-widget.php:51
+msgid "Profile Link"
+msgstr "Profiel link"
+
+#: inc/wot-press-widget.php:67
+msgid "Nickname not specified"
+msgstr "Speelnaam is niet geregistreerd."
+
+#: inc/wot-press-widget.php:79
+msgid "Battles fought"
+msgstr "Aantal Gevechten"
+
+#: inc/wot-press-widget.php:80
+msgid "Personal rating"
+msgstr "Persoonlijke Rang "
+
+#: inc/wot-press-widget.php:81
+msgid "Hits"
+msgstr "Treffers"
+
+#: inc/wot-press-widget.php:82
+msgid "Victories"
+msgstr "Overwinningen"
+
+#: inc/wot-press-widget.php:83
+msgid "Defeats"
+msgstr "Verliezen"
+
+#: inc/wot-press-widget.php:84
+msgid "Draws"
+msgstr "Gelijkspel"
+
+#: inc/wot-press-widget.php:85
+msgid "Total experience"
+msgstr "Totaal ervaring"
+
+#: inc/wot-press-widget.php:86
+msgid "Average experience per battle"
+msgstr "Gemiddelde ervaring per ronde"
+
+#: inc/wot-press-widget.php:87
+msgid "Maximum experience per battle"
+msgstr "Maximale ervaring per ronde"
+
+#: inc/wot-press-widget.php:88
+msgid "Vehicles destroyed"
+msgstr "Voertuigen vernietigd"
+
+#: inc/wot-press-widget.php:89
+msgid "Shots fired"
+msgstr "Schoten gelost"
+
+#: inc/wot-press-widget.php:90
+msgid "Maximum destroyed in battle"
+msgstr "Maximaal vernietigd in een ronde"
+
+#: inc/wot-press-widget.php:91
+msgid "Maximum damage caused per battle"
+msgstr "Maximaal schade toegebracht per ronde"
+
+#: inc/wot-press-widget.php:92
+msgid "Hit ratio"
+msgstr "Treffer ratio"
+
+#: inc/wot-press-widget.php:93
+msgid "Base capture points"
+msgstr "Basis inname punten"
+
+#: inc/wot-press-widget.php:94
+msgid "Base defense points"
+msgstr "Basis verdedigings punten"
+
+#: inc/wot-press-widget.php:95
+msgid "Penetrations"
+msgstr "Penetrties"
+
+#: inc/wot-press-widget.php:96
+msgid "Battles survived"
+msgstr "Ronden overleeft"
+
+#~ msgid "Player Name"
+#~ msgstr "Spelernaam"

@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-06-30 21:33+0200\n"
+"PO-Revision-Date: 2016-06-30 21:33+0200\n"
+"Last-Translator: qwe\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/wot-press-shortcode.php:20
+msgid "<h4>Player Name"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:93
+msgid "Client Language"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:94
+msgid "Last Battle Time"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:95
+msgid "Account Id"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:96
+msgid "Created At"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:97
+msgid "Updataed At"
+msgstr ""
+
+#: inc/wot-press-widget.php:42
+#, fuzzy
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/wot-press-widget.php:46
+#, fuzzy
+msgid "Nickname"
+msgstr "Имя игрока"
+
+#: inc/wot-press-widget.php:51
+msgid "Profile Link"
+msgstr "Ссылка на профиль"
+
+#: inc/wot-press-widget.php:67
+msgid "Nickname not specified"
+msgstr "Имя профиля не указано"
+
+#: inc/wot-press-widget.php:79
+msgid "Battles fought"
+msgstr "Проведено боёв"
+
+#: inc/wot-press-widget.php:80
+msgid "Personal rating"
+msgstr "Личный рейтинг"
+
+#: inc/wot-press-widget.php:81
+msgid "Hits"
+msgstr "Попадания"
+
+#: inc/wot-press-widget.php:82
+msgid "Victories"
+msgstr "Победы"
+
+#: inc/wot-press-widget.php:83
+msgid "Defeats"
+msgstr "Поражения"
+
+#: inc/wot-press-widget.php:84
+msgid "Draws"
+msgstr "Ничьи"
+
+#: inc/wot-press-widget.php:85
+msgid "Total experience"
+msgstr "Суммарный опыт"
+
+#: inc/wot-press-widget.php:86
+msgid "Average experience per battle"
+msgstr "Средний опыт за бой"
+
+#: inc/wot-press-widget.php:87
+msgid "Maximum experience per battle"
+msgstr "Максимальный опыт за бой"
+
+#: inc/wot-press-widget.php:88
+msgid "Vehicles destroyed"
+msgstr "Уничтожено техники"
+
+#: inc/wot-press-widget.php:89
+msgid "Shots fired"
+msgstr "Произведено выстрелов"
+
+#: inc/wot-press-widget.php:90
+msgid "Maximum destroyed in battle"
+msgstr "Максимум уничтожено за бой"
+
+#: inc/wot-press-widget.php:91
+msgid "Maximum damage caused per battle"
+msgstr "Максимальный урон за бой"
+
+#: inc/wot-press-widget.php:92
+msgid "Hit ratio"
+msgstr "Процент попаданий"
+
+#: inc/wot-press-widget.php:93
+msgid "Base capture points"
+msgstr "Очки захвата базы"
+
+#: inc/wot-press-widget.php:94
+msgid "Base defense points"
+msgstr "Очки защиты базы"
+
+#: inc/wot-press-widget.php:95
+msgid "Penetrations"
+msgstr "Количество пробитий"
+
+#: inc/wot-press-widget.php:96
+msgid "Battles survived"
+msgstr "Выжил в боях"

@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-06-30 21:33+0200\n"
+"PO-Revision-Date: 2016-06-30 21:33+0200\n"
+"Last-Translator: qwe\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/wot-press-shortcode.php:20
+msgid "<h4>Player Name"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:93
+msgid "Client Language"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:94
+msgid "Last Battle Time"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:95
+msgid "Account Id"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:96
+msgid "Created At"
+msgstr ""
+
+#: inc/wot-press-shortcode.php:97
+msgid "Updataed At"
+msgstr ""
+
+#: inc/wot-press-widget.php:42
+msgid "Title"
+msgstr "Titel"
+
+#: inc/wot-press-widget.php:46
+msgid "Nickname"
+msgstr "Spitzname"
+
+#: inc/wot-press-widget.php:51
+msgid "Profile Link"
+msgstr "Profil-Link"
+
+#: inc/wot-press-widget.php:67
+msgid "Nickname not specified"
+msgstr "Nickname nicht angegeben"
+
+#: inc/wot-press-widget.php:79
+msgid "Battles fought"
+msgstr "Schlachten"
+
+#: inc/wot-press-widget.php:80
+msgid "Personal rating"
+msgstr "Persönliche Bewertung"
+
+#: inc/wot-press-widget.php:81
+msgid "Hits"
+msgstr "Hits"
+
+#: inc/wot-press-widget.php:82
+msgid "Victories"
+msgstr "Siege"
+
+#: inc/wot-press-widget.php:83
+msgid "Defeats"
+msgstr "Fehlschlag"
+
+#: inc/wot-press-widget.php:84
+msgid "Draws"
+msgstr "Unentschieden"
+
+#: inc/wot-press-widget.php:85
+msgid "Total experience"
+msgstr "Gesamterfahrung"
+
+#: inc/wot-press-widget.php:86
+msgid "Average experience per battle"
+msgstr "Das Durchschnittsalter pro Kampf"
+
+#: inc/wot-press-widget.php:87
+msgid "Maximum experience per battle"
+msgstr "Maximale Erfahrung pro Kampf"
+
+#: inc/wot-press-widget.php:88
+msgid "Vehicles destroyed"
+msgstr "Fahrzeuge zerstört"
+
+#: inc/wot-press-widget.php:89
+msgid "Shots fired"
+msgstr "Schüsse abgefeuert"
+
+#: inc/wot-press-widget.php:90
+msgid "Maximum destroyed in battle"
+msgstr "Maximale Kampfes zerstört"
+
+#: inc/wot-press-widget.php:91
+msgid "Maximum damage caused per battle"
+msgstr "Maximaler Schaden pro Kampf verursacht"
+
+#: inc/wot-press-widget.php:92
+msgid "Hit ratio"
+msgstr "Hit-Ratio"
+
+#: inc/wot-press-widget.php:93
+msgid "Base capture points"
+msgstr "Basiskontrollpunkte"
+
+#: inc/wot-press-widget.php:94
+msgid "Base defense points"
+msgstr "Basisverteidigungspunkte"
+
+#: inc/wot-press-widget.php:95
+msgid "Penetrations"
+msgstr "Durchdringen"
+
+#: inc/wot-press-widget.php:96
+msgid "Battles survived"
+msgstr "Kämpfe überlebt"
